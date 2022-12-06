@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Courseplay lastVersion="7.1.0.3">
+    <GlobalSettings>
+        <GlobalSetting currentValue="true" name="expertModeActive"/>
+        <GlobalSetting currentValue="false" name="controllerHudSelected"/>
+        <GlobalSetting currentValue="false" name="showsAllActiveCourses"/>
+        <GlobalSetting currentValue="false" name="showActionEventHelp"/>
+        <GlobalSetting currentValue="true" name="infoTextHudActive"/>
+        <GlobalSetting currentValue="false" name="infoTextHudPlayerMouseActive"/>
+        <GlobalSetting currentValue="true" name="preferCustomFields"/>
+    </GlobalSettings>
+    <Hud posX="0.421875" posY="0.055556"/>
+    <HudInfoTexts posX="0.135286" posY="0.993519"/>
+</Courseplay>
